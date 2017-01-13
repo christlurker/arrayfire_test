@@ -1,0 +1,3 @@
+/home/zh/ClionProjects/arrayfire_test/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/zh/ClionProjects/arrayfire_test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/zh/ClionProjects/arrayfire_test/cmake-build-debug/CMakeFiles/arrayfire_test.dir
